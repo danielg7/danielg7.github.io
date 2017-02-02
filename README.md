@@ -5,10 +5,6 @@
 (https://gemnasium.com/badges/github.com/chipoglesby/chipoglesby.github.io.svg)]
 (https://gemnasium.com/github.com/chipoglesby/chipoglesby.github.io)
 
-# The home of chipoglesby.com
+# The home of danielg7.github.io
 
-I'm teaching myself markdown, Jekyll and other goodies as I moved from Wordpress
-to Github pages.
-
-I write about data analysis in the marketing world, sometimes I'll share photos
-I take and code I've written and my crazy ramblings about the world.
+I'm playing with reproducible research. I like fire and fire data.
