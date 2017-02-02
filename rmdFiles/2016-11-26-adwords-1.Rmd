@@ -1,0 +1,38 @@
+---
+title: "Analyzing Google AdWords With R"
+author: "chipoglesby"
+date: '`r Sys.Date()`'
+excerpt: Step One Getting Setup With Authentication
+layout: post
+published: yes
+slug: analyzing-adwords-with-r-1
+categories: R-Analysis
+---
+
+When I first started doing Analysis of Adwords, I began mainly by using Google Sheets and programatically pulling data in with Google Apps Script. That worked for a while, but at some point became very limiting. That's when I began to use R more for my analysis. 
+
+In this series, I'd like to share with you how I do this. Today's post will be about getting set up to begin your own analysis.
+
+You can do this same process without any of the next steps, but for you own sanity, **I DO NOT RECOMMEND IT!** It is much easier to go with the programmatic method.
+
+Questions to answer: If you can answer yes to all of these two then you'll be able to follow the rest of this tutorial?
+
+1. Do you currently have a [My Client Center](https://adwords.google.com/home/tools/manager-accounts/) account with Google Adwords?
+2. Do you currently have a [Google Cloud account](https://cloud.google.com)?
+
+Steps to get started:
+
+1. You'll need to download the [`RAdwords`](https://github.com/jburkhardt/RAdwords) package by Johannes Burkhardt.
+    * Install it in your R enviornment with the command `devtools::install_github('jburkhardt/RAdwords')`.
+2. You'll need to sign up for a Adwords [developer token](https://developers.google.com/adwords/api/docs/guides/signup) using your MCC account.
+3. You'll also need to sign up for a OAuth 2.0 Client I.D. Be sure to record your Client ID and Client Secret, you'll use it when authorizing the `RAdwords` package. [More details can be found here.](https://support.google.com/cloud/answer/6158857?hl=en).
+
+Once you have the package installed, have a developer token and Oauth access, you can begin by using the following commands:
+
+````
+library(RAdwords)
+google_auth <- doAuth()
+````
+
+In the next post, we'll look at some of the [report types](https://developers.google.com/adwords/api/docs/appendix/reports), the data you can pull from them and what you can do with it.
+

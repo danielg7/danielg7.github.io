@@ -1,0 +1,50 @@
+# Site wide configuration
+
+title: Daniel Godwin
+locale: en_US
+description: Playing With Fire (Data)
+logo: site-logo.png
+search: true
+future: false
+
+# Jekyll configuration
+
+permalink:   /:year/:month/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Daniel Godwin
+  avatar: bio-avatar.jpg
+  twitter: danielg7
+  github: danielg7
+  linkedin: danielgodwin
+#  google:
+#    plus: chipoglesby
+#    analytics: UA-10870918-1
+#    verify:
+#    ad-client:
+#    ad-slot:
+#  bing-verify:

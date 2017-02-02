@@ -1,0 +1,31 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Search
+  url: /search/
+
+- title: Photography
+  url: /photography/
+
+- title: Sidenote
+  url: /sidenote/
+
+- title: Journalism
+  url: /journalism/
+
+- title: Coding
+  url: /coding/
+
+- title: Weight Loss
+  url: /weightloss/
+
+- title: Resume
+  url: /resume/
+
+- title: Adwords
+  url: /adwords/
