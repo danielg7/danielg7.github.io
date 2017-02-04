@@ -21,7 +21,6 @@ HS	2004 - Lincoln High School, Tallahassee, FL 32311
 Center for Environmental Management of Military Lands  
 Fort Collins, CO  
 12/28/2015 – Present  
-GS-0401-11 Equivalent  
 
 * Conducted complex geospatial and simulation modeling analyses related to wildland fire.
 * Used fire modeling software (FARSITE, FireFamily Plus, and BehavePlus) to produce wildfire risk assessments. Extended their use with Python and R programs and scripts.
@@ -39,7 +38,6 @@ GS-0401-11 Equivalent
 Mesa Verde National Park  
 Cortez, CO  
 05/30/2015 – 07/16/2015  
-GS-0462-05, Acting GS6  
 
 * Served as Ast. Engine Captain and Lead Forestry Technician on a wildland engine crew performing work directly related to wildland fire suppression and control activities.
 * Directed and assisted in the operation of two Type 6 and one Type 7 wildland fire engines. Operated and maintained pumps on wildland fire engines during daily preventative maintenance checks and during wildfires. On a daily basis, drove and operated a wildland fire engine, positioning the engine for proper use and operation.
@@ -56,7 +54,6 @@ Operated a variety of motor vehicles to transport equipment, supplies, crewmembe
 Mesa Verde National Park  
 Cortez, CO  
 06/15/14 - 07/15/14  
-GS-0462-05 Equivalent  
 
 * Served as a lead wildland firefighter on a Type 6 and Type 7 engine. Directed the work of six engine crewmembers, assigning work, interpreting instructions, demonstrating work methods, and reviewing completed work.
 * Drove and operated a wildland fire engine, positioning the engine for proper use and operation.
@@ -70,7 +67,6 @@ GS-0462-05 Equivalent
 University of Missouri - Columbia  
 Columbia, MO  
 08/15/2011 – 12/15/2015  
-GS-1401-11 Equivalent  
 
 ### Mentorship of Early Career Wildland Firefighters
 * Elected by and led a group of 25 student volunteer wildland firefighters (Student Association for Fire Ecology). Organized weekly meetings, trainings, social events, fuels reduction projects, equipment rehabilitation, and prescribed fire assistance of local partners. Promoted effective working relationships among co-workers through active listening, professional respect, and engaged leadership.
@@ -120,7 +116,6 @@ Mentored and trained over 25 new wildland firefighters.
 Oak Woodlands and Forests Fire Science Consortium  
 Columbia, MO  
 05/01/2014 - 05/01/2015  
-GS-1702-05 Equivalent  
 
 * Utilized word processing software to create online and print materials on the science-based use of prescribed fire.
 * Organized and promoted outreach materials for demonstration sites for fuels management projects.
@@ -130,7 +125,6 @@ GS-1702-05 Equivalent
 The Nature Conservancy  
 Melrose, FL  
 07/01/2009 – 08/05/2011  
-GS-0462-04 Equivalent
 
 * Managed type 6 and type 7 engines on over 100 wildland fire incidents.
 * Evaluated fire weather, fire behavior, fuel models and terrain during both prescribed and uncontained wildfires.
@@ -208,8 +202,8 @@ Cimarron, NM
 
 # Wildland Fire Position Qualifications
 
-* ****Taskbooks Open****: FAL2, HECM  
-* ****Currently Qualified****: SRB-ENGB, SRB-FIRB, FFT1, ICT5, FEMO, FAL3, UTVO, READ, ENOP  
+* **Taskbooks Open**: FAL2, HECM  
+* **Currently Qualified**: SRB-ENGB, SRB-FIRB, FFT1, ICT5, FEMO, FAL3, UTVO, READ, ENOP  
 
 ## Certifications
 * Basic Wildland Firefighter (S – 130, S – 190, I – 100, L – 180); Arduous pack test
@@ -256,19 +250,29 @@ Cimarron, NM
 ## Peer Reviewed
 
 Finch, T., Sitati, N., Godwin, D. S., Millspaugh, J. Woods, R.J., Eggert, L.S. In Review. Physiological Factors that Influence Crop Raiding in the African Savanna Elephant. Animal Conservation  
+
 Godwin, D. S., Kobziar, L. N., Taylor, L., Watts, A. 2014. Prescribed Fire Effects on Wildfire: A Survey of Fire Use Practitioners in the South. Forests. Forests 6 (3), 561 – 580.  
+
 Godwin, D. S., Ferrarese, J., 2014.  Student Wildland Fire Groups: Common Challenges and Shared Solutions. Journal of Fire Ecology 10 (2), 92-97.
 
 ## Not Peer Reviewed
 Godwin, D. S. 2014. Student Associations for Fire Ecology (S.A.F.E.). Ignis: Newsletter of the Oak Woodlands and Forests Fire Consortium. 3(5).  
+
 Gray, R., Kobziar, L., Riley, K., Ryan, K., Godwin, D.S.; Robertson, K.; Ingalsbee, T., Prusak, Z., Huffman, M. 2013. The Merits of Prescribed Fire Outweigh Potential Carbon Emission Effects. White Paper.  
 
 ## Presentations
 Godwin, D. S. 2014. Pyrogeography of Savanna Fire Intensity and Severity. Scientific Services, Kruger National Park, South Africa. Invited Presentation.  
+
 Godwin, D. S., Holdo, R., Govender, N. 2014. "Savanna Fire Temperatures: Potential Effects of Tree Canopies." Poster. Savanna Network Meeting. Kruger National Park, South Africa.  
+
 Godwin, D. S. 2013. “Midwestern Prescribed Fire Councils – A Discussion of Best Practices and Lessons Learned.” Tallgrass Prairie and Oak Savanna Fire Science Consortium Regional Fire Conference. Dubuque, IA. Round Table Discussion / Organizer.  
+
 Godwin, D. S. 2013. “Trends In Prescribed Fire in Missouri.” Tallgrass Prairie and Oak Savanna Fire Science Consortium Regional Fire Conference. Dubuque, IA.  
-Godwin, D. S., Holdo, R., Govender, N. 2012. “Piping hot: a cheap(er) way to measure fire 	temperatures.” Fifth International Fire Ecology and Management Conference. 		Portland, Oregon, USA. December 2012. Presentation.  
+
+Godwin, D. S., Holdo, R., Govender, N. 2012. “Piping hot: a cheap(er) way to measure fire 	temperatures.” Fifth International Fire Ecology and Management Conference. Portland, Oregon, USA. December 2012. Presentation.  
+
 Silvas-Bellanca, K. & Godwin, D. S.  "Prescribed Fire Councils: Old & New." The Nature Conservancy Iowa Training Exchange. Invited Presentation.  
+
 Godwin, D. S.  2012. “Threats and Opportunities in Oak Savanna Conservation.” The Nature Conservancy Iowa Training Exchange. Invited Presentation.  
+
 Godwin, D. S.  2011. “Fire Ecology as a Discipline.” William Woods University. Invited lecture.
