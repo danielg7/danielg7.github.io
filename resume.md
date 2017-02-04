@@ -1,5 +1,5 @@
 ---
-bg: "owl.jpg"
+bg: "NM_RX.jpg"
 layout: page
 title: "Resume"
 crawlertitle: ""
@@ -8,16 +8,22 @@ summary: ""
 active: about
 ---
 # Education
+
 PhD	2015 - Biology / Fire Ecology, University of Missouri - Columbia, Columbia, MO 65211
 BS	2008 - Geography, University of Florida, Gainesville, FL 32611
 BA	2008 - Anthropology, University of Florida, Gainesville, FL 32611
 HS	2004 - Lincoln High School, Tallahassee, FL 32311
 
 # Employment History
+
 ## Wildland Fire Analyst
+
 Center for Environmental Management of Military Lands		
+
 Fort Collins, CO
+
 12/28/2015 – Present
+
 GS-0401-11 Equivalent
 
 * Conducted complex geospatial and simulation modeling analyses related to wildland fire.
@@ -49,72 +55,78 @@ Operated a variety of motor vehicles to transport equipment, supplies, crewmembe
 * Organized additional weekly informal trainings, e.g. GPS operations, fire weather monitoring, fire behavior monitoring.
 * Taught safety procedures in fire management through daily preventative maintenance checks and discussions, pre- and post-incident briefings and AARs, and providing an open environment in which any unsafe action could be quickly discussed and mitigated.
 
-Engine Boss							GS-0462-05 Equivalent
-Mesa Verde National Park						06/15/14 - 07/15/14
-Cortez, CO								84 hrs. / wk
+## Engine Boss							
+Mesa Verde National Park
+Cortez, CO
+06/15/14 - 07/15/14
+GS-0462-05 Equivalent
 
-Served as a lead wildland firefighter on a Type 6 and Type 7 engine. Directed the work of six engine crewmembers, assigning work, interpreting instructions, demonstrating work methods, and reviewing completed work.
-Drove and operated a wildland fire engine, positioning the engine for proper use and operation.
-Performed and directed six other crewmembers in water handling and pump operation, laying hose, and using appropriate nozzles and nozzle adjustment in effective use of water and additives.
-Taught safety procedures in fire management through daily preventative maintenance checks and discussions, pre- and post-incident briefings and AARs, and providing an open environment in which any unsafe action can be quickly discussed and mitigated.
-Served as Incident Commander on low complexity fires.
-Patrolled for and located lightning ignitions.
-Assured that needed tools and equipment were available for firefighting tasks.
+* Served as a lead wildland firefighter on a Type 6 and Type 7 engine. Directed the work of six engine crewmembers, assigning work, interpreting instructions, demonstrating work methods, and reviewing completed work.
+* Drove and operated a wildland fire engine, positioning the engine for proper use and operation.
+* Performed and directed six other crewmembers in water handling and pump operation, laying hose, and using * appropriate nozzles and nozzle adjustment in effective use of water and additives.
+* Taught safety procedures in fire management through daily preventative maintenance checks and discussions, pre- and post-incident briefings and AARs, and providing an open environment in which any unsafe action can be quickly discussed and mitigated.
+* Served as Incident Commander on low complexity fires.
+* Patrolled for and located lightning ignitions.
+* Assured that needed tools and equipment were available for firefighting tasks.
 
-Fire Ecology Research Assistant, Instructor, & Mentor	GS-1401-11 Equivalent
-University of Missouri - Columbia					08/15/2011 – 12/15/2015
-Columbia, MO								50 hrs. / wk
+## Fire Ecology Research Assistant, Instructor, & Mentor
+08/15/2011 – 12/15/2015
+University of Missouri - Columbia
+Columbia, MO
+GS-1401-11 Equivalent
 
-Mentorship of Early Career Wildland Firefighters
-Elected by and led a group of 25 student volunteer wildland firefighters (Student Association for Fire Ecology). Organized weekly meetings, trainings, social events, fuels reduction projects, equipment rehabilitation, and prescribed fire assistance of local partners. Promoted effective working relationships among co-workers through active listening, professional respect, and engaged leadership.
-Directed and led six prescribed fires including preparation, ignition, monitoring and mop-up on at the University of Missouri’s Baskett Research and Education Area. Wrote and organized interagency reviews of prescribed burn plans for the University of Missouri’s Baskett Research and Education Area.
-Organized and served as unit instructor on four S-130/190 trainings and three refresher trainings for over 70 local cooperators, students, and faculty. Provided training in the use of water in fire suppression/control operations, use and maintenance of backpack sprayers, and in engine operations on type 6 and type 4 engines.
-Provided eight formal safety training for new wildland firefighters in both classroom and live fire contexts (e.g., safe driptorch handling, handline construction, overhead hazards, etc.)
-Led and conducted six fuels reduction projects (thinning trees and brush and building firebreaks) at Rock Bridge State Park.
-Delivered six incident briefings to groups of fire incident personnel and the general public prior to prescribed fires.
-Wrote and received over $35,000 in grant support for wildland fire equipment for the University of Missouri
-Built and maintained the University of Missouri fire cache, modernizing PPE standards to match NFPA standards.
-Developed and maintained partnerships to link qualified student wildland firefighters to non-profit, local, state, and federal agencies conducting prescribed fires throughout Missouri, assisting on over 20 fires.
+### Mentorship of Early Career Wildland Firefighters
+* Elected by and led a group of 25 student volunteer wildland firefighters (Student Association for Fire Ecology). Organized weekly meetings, trainings, social events, fuels reduction projects, equipment rehabilitation, and prescribed fire assistance of local partners. Promoted effective working relationships among co-workers through active listening, professional respect, and engaged leadership.
+* Directed and led six prescribed fires including preparation, ignition, monitoring and mop-up on at the University of Missouri’s Baskett Research and Education Area. Wrote and organized interagency reviews of prescribed burn plans for the University of Missouri’s Baskett Research and Education Area.
+* Organized and served as unit instructor on four S-130/190 trainings and three refresher trainings for over 70 local cooperators, students, and faculty. Provided training in the use of water in fire suppression/control operations, use and maintenance of backpack sprayers, and in engine operations on type 6 and type 4 engines.
+* Provided eight formal safety training for new wildland firefighters in both classroom and live fire contexts (e.g., safe driptorch handling, handline construction, overhead hazards, etc.)
+* Led and conducted six fuels reduction projects (thinning trees and brush and building firebreaks) at Rock Bridge State Park.
+* Delivered six incident briefings to groups of fire incident personnel and the general public prior to prescribed fires.
+* Wrote and received over $35,000 in grant support for wildland fire equipment for the University of Missouri
+* Built and maintained the University of Missouri fire cache, modernizing PPE standards to match NFPA standards.
+* Developed and maintained partnerships to link qualified student wildland firefighters to non-profit, local, state, and federal agencies conducting prescribed fires throughout Missouri, assisting on over 20 fires.
 Mentored and trained over 25 new wildland firefighters.
 
-Fire Ecology Research Program Management
-Processed large weather and fuels datasets with R and Python.
-Performing statistical analyses of spatial data such as analysis of variance and generalized linear models.
-Simulated wildfire behavior based on climate and weather drivers.
-Collected information on fuel loadings, moisture data, and fuel model assessments during ten fires in Kruger National Park, South Africa.
-Collected fire behavior data related to spread rate, flame length, and other fire prescription elements.
-Recruited, hired, developed, and supervised six undergraduates and field technicians. Directed the work of field technicians, assigning work, demonstrating work methods, and reviewing work done.
-Taught safety procedures in fire management by providing pre-fieldwork and pre-fire safety briefings, including how to respond to megaherbivores in study sites.
-Developed and deployed technique to measure fire behavior in savanna fires in Kruger NP, South Africa.
-Lectured and taught courses: twelve Ecology labs, eight Conservation Biology Reading Groups, and three Forest Fires: Control and Use.
-Applied knowledge of quantitative theory and methodology to achieve statistically-sound study designs using spatial and non-spatial techniques, problem formulation, and modeling applications.
-Collected, stored, processed, synthesized, analyzed, interpreted, and communicated complex ecological, geographical, and environmental data to add value to park management at Kruger National Park.
-Managed multiple ecological data types using open standards and Ecological Metadata standards.
+### Fire Ecology Research Program Management
+* Processed large weather and fuels datasets with R and Python.
+* Performed statistical analyses of spatial data such as analysis of variance and generalized linear models.
+* Simulated wildfire behavior based on climate and weather drivers.
+* Collected information on fuel loadings, moisture data, and fuel model assessments during ten fires in Kruger National Park, South Africa.
+* Collected fire behavior data related to spread rate, flame length, and other fire prescription elements.
+* Recruited, hired, developed, and supervised six undergraduates and field technicians. Directed the work of field technicians, assigning work, demonstrating work methods, and reviewing work done.
+* Taught safety procedures in fire management by providing pre-fieldwork and pre-fire safety briefings, including how to respond to megaherbivores in study sites.
+* Developed and deployed technique to measure fire behavior in savanna fires in Kruger NP, South Africa.
+* Lectured and taught courses: twelve Ecology labs, eight Conservation Biology Reading Groups, and three Forest Fires: Control and Use.
+* Applied knowledge of quantitative theory and methodology to achieve statistically-sound study designs using spatial and non-spatial techniques, problem formulation, and modeling applications.
+* Collected, stored, processed, synthesized, analyzed, interpreted, and communicated complex ecological, geographical, and environmental data to add value to park management at Kruger National Park.
+* Managed multiple ecological data types using open standards and Ecological Metadata standards.
 
-Contributions to Field
-National Training & Education Coordinator, Student Association for Fire Ecology
-Developed materials and methods to lower the barriers to wildland fire training opportunities for student groups.
-Coordinated outreach and evaluated student applications to the Fire Learning Network's Training Exchange program, a novel experiential fire education program where students and fire professionals serve on prescribed fire projects. Organized PPE and equipment needs for student participants.
+### Contributions to Field
+#### National Training & Education Coordinator, Student Association for Fire Ecology
+* Developed materials and methods to lower the barriers to wildland fire training opportunities for student groups.
+* Coordinated outreach and evaluated student applications to the Fire Learning Network's Training Exchange program, a novel experiential fire education program where students and fire professionals serve on prescribed fire projects. Organized PPE and equipment needs for student participants.
 
-Executive Board Member, Missouri Prescribed Fire Council
-Managed social media outreach program promoting appropriate use of prescribed fire in the region.
-Developed documentary about restoring fire to Shortleaf Pine.
-Researched long-term trends in prescribed fire in Missouri through interviews and remote sensing.
-Organized round table discussion on Midwestern Prescribed Fire Councils at Tallgrass Prairie and Oak Savanna Fire Science Consortium Conference (2013).
-Engaged in legislative outreach regarding prescribed fire issues.
+#### Executive Board Member, Missouri Prescribed Fire Council
+* Managed social media outreach program promoting appropriate use of prescribed fire in the region.
+* Developed documentary about restoring fire to Shortleaf Pine.
+* Researched long-term trends in prescribed fire in Missouri through interviews and remote sensing.
+* Organized round table discussion on Midwestern Prescribed Fire Councils at Tallgrass Prairie and Oak Savanna Fire Science Consortium Conference (2013).
+* Engaged in legislative outreach regarding prescribed fire issues.
 
-National President, Student Association for Fire Ecology
-Facilitated a survey of needs and desires of students of fire ecology.
-Organized donation and redistribution of Nomex for local SAFE chapters.
-Established mini-grant program for SAFE chapters.
+#### National President, Student Association for Fire Ecology
+* Facilitated a survey of needs and desires of students of fire ecology.
+* Organized donation and redistribution of Nomex for local SAFE chapters.
+* Established mini-grant program for SAFE chapters.
 
-Fire Science Outreach Assistant				GS-1702-05 Equivalent
-Oak Woodlands and Forests Fire Science Consortium		05/01/2014 - 05/01/2015
-Columbia, MO								10 hrs. / wk
+## Fire Science Outreach Assistant				
+05/01/2014 - 05/01/2015
+Oak Woodlands and Forests Fire Science Consortium
+Columbia, MO
+GS-1702-05 Equivalent
 
-Utilized word processing software to create online and print materials on the science-based use of prescribed fire.
-Organized and promoted outreach materials for demonstration sites for fuels management projects.
-Developed and maintained open communication and effective working relations with related groups, individuals, and agencies to synthesize fire science products.
+* Utilized word processing software to create online and print materials on the science-based use of prescribed fire.
+* Organized and promoted outreach materials for demonstration sites for fuels management projects.
+* Developed and maintained open communication and effective working relations with related groups, individuals, and agencies to synthesize fire science products.
 
 Wildland Firefighter						GS-0462-04 Equivalent
 The Nature Conservancy						07/01/2009 – 08/05/2011
