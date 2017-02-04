@@ -9,22 +9,19 @@ active: about
 ---
 # Education
 
-PhD	2015 - Biology / Fire Ecology, University of Missouri - Columbia, Columbia, MO 65211
-BS	2008 - Geography, University of Florida, Gainesville, FL 32611
-BA	2008 - Anthropology, University of Florida, Gainesville, FL 32611
-HS	2004 - Lincoln High School, Tallahassee, FL 32311
+PhD	2015 - Biology / Fire Ecology, University of Missouri - Columbia, Columbia, MO 65211  
+BS	2008 - Geography, University of Florida, Gainesville, FL 32611  
+BA	2008 - Anthropology, University of Florida, Gainesville, FL 32611  
+HS	2004 - Lincoln High School, Tallahassee, FL 32311  
 
 # Employment History
 
 ## Wildland Fire Analyst
 
-Center for Environmental Management of Military Lands		
-
-Fort Collins, CO
-
-12/28/2015 – Present
-
-GS-0401-11 Equivalent
+Center for Environmental Management of Military Lands  
+Fort Collins, CO  
+12/28/2015 – Present  
+GS-0401-11 Equivalent  
 
 * Conducted complex geospatial and simulation modeling analyses related to wildland fire.
 * Used fire modeling software (FARSITE, FireFamily Plus, and BehavePlus) to produce wildfire risk assessments. Extended their use with Python and R programs and scripts.
@@ -39,10 +36,10 @@ GS-0401-11 Equivalent
 * Analyzed and visualized fire weather to determine hazardous fuels conditions
 
 ## Assistant Engine Captain, Acting
-Mesa Verde National Park
-Cortez, CO
-05/30/2015 – 07/16/2015
-GS-0462-05, Acting GS6
+Mesa Verde National Park  
+Cortez, CO  
+05/30/2015 – 07/16/2015  
+GS-0462-05, Acting GS6  
 
 * Served as Ast. Engine Captain and Lead Forestry Technician on a wildland engine crew performing work directly related to wildland fire suppression and control activities.
 * Directed and assisted in the operation of two Type 6 and one Type 7 wildland fire engines. Operated and maintained pumps on wildland fire engines during daily preventative maintenance checks and during wildfires. On a daily basis, drove and operated a wildland fire engine, positioning the engine for proper use and operation.
@@ -56,10 +53,10 @@ Operated a variety of motor vehicles to transport equipment, supplies, crewmembe
 * Taught safety procedures in fire management through daily preventative maintenance checks and discussions, pre- and post-incident briefings and AARs, and providing an open environment in which any unsafe action could be quickly discussed and mitigated.
 
 ## Engine Boss							
-Mesa Verde National Park
-Cortez, CO
-06/15/14 - 07/15/14
-GS-0462-05 Equivalent
+Mesa Verde National Park  
+Cortez, CO  
+06/15/14 - 07/15/14  
+GS-0462-05 Equivalent  
 
 * Served as a lead wildland firefighter on a Type 6 and Type 7 engine. Directed the work of six engine crewmembers, assigning work, interpreting instructions, demonstrating work methods, and reviewing completed work.
 * Drove and operated a wildland fire engine, positioning the engine for proper use and operation.
@@ -70,10 +67,10 @@ GS-0462-05 Equivalent
 * Assured that needed tools and equipment were available for firefighting tasks.
 
 ## Fire Ecology Research Assistant, Instructor, & Mentor
-08/15/2011 – 12/15/2015
-University of Missouri - Columbia
-Columbia, MO
-GS-1401-11 Equivalent
+University of Missouri - Columbia  
+Columbia, MO  
+08/15/2011 – 12/15/2015  
+GS-1401-11 Equivalent  
 
 ### Mentorship of Early Career Wildland Firefighters
 * Elected by and led a group of 25 student volunteer wildland firefighters (Student Association for Fire Ecology). Organized weekly meetings, trainings, social events, fuels reduction projects, equipment rehabilitation, and prescribed fire assistance of local partners. Promoted effective working relationships among co-workers through active listening, professional respect, and engaged leadership.
@@ -119,10 +116,10 @@ Mentored and trained over 25 new wildland firefighters.
 * Established mini-grant program for SAFE chapters.
 
 ## Fire Science Outreach Assistant				
-05/01/2014 - 05/01/2015
-Oak Woodlands and Forests Fire Science Consortium
-Columbia, MO
-GS-1702-05 Equivalent
+Oak Woodlands and Forests Fire Science Consortium  
+Columbia, MO  
+05/01/2014 - 05/01/2015  
+GS-1702-05 Equivalent  
 
 * Utilized word processing software to create online and print materials on the science-based use of prescribed fire.
 * Organized and promoted outreach materials for demonstration sites for fuels management projects.
