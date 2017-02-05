@@ -8,12 +8,16 @@ layout: post
 
 ---
 
-I think crime data is interesting, but here in Colorado, it's public but [not well organized](http://crimeinco.cbi.state.co.us/). The data are displayed online in tables by agency and year, at least from the early 2000s onward, but overall it's a messy venture. Ever since listening to the [http://www.apmreports.org/in-the-dark]('In The Dark' podcast), I'd been curious about how clearance rates in Colorado. Clearance rates are the ratio of 'closed' crimes to total crimes in a year.
+I think crime data is interesting, but here in Colorado, it's public but [not well organized](http://crimeinco.cbi.state.co.us/). The data are displayed online in tables by agency and year, at least from the early 2000s onward, but overall it's a messy venture. Ever since listening to the ['In The Dark' podcast](http://www.apmreports.org/in-the-dark), I'd been curious about how clearance rates in Colorado. [Clearance rates](https://en.wikipedia.org/wiki/Clearance_rate) are the ratio of 'closed' crimes to total crimes in a year.
 
 As noted from the CBI website:
 > Caution must be taken not to compare the number of criminal offenses which occurred to the number of individuals arrested for a particular crime. There is not a direct correlation between the number of individuals arrested and the number of offenses reported.
 
 Considered yourself caveated.
+
+It's also worth noting that clearance rates are likely poor performance metrics for law enforcement agencies, so don't read too much into this.
+
+-----
 
 This is my first attempt at webscraping. I'd read that $rvest$ and $XML$ had good tools for this.
 
@@ -250,4 +254,4 @@ Great! Let's look first at our overall crime stats:
 
 ![plot of chunk crime_clearanceRate](../figs/crime_clearanceRate-1.png)
 
-So the Larimer County Sheriff Department has an average clearance rate of 1.4340469, with not much variation around that per year. So for every 1.4340469 arrests, there is 1 reported crime. This may be driven by somewhat  overlapping jurisdictions.
+So the Larimer County Sheriff Department has an average clearance rate of 1.4340469, with not much variation around that per year. So for every 1.4340469 arrests, there is 1 reported crime. This may be driven by somewhat overlapping jurisdictions, wherein it is possible to arrest people for crimes that occur outside of a reporting area for offenses. That's a wild guess on my part, since I'm not an expert on LEA reporting standards.
