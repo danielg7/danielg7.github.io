@@ -4,7 +4,7 @@ author: "Daniel S. Godwin"
 date: 2017-02-04 19:38:00 +0700
 output: github_document
 bg: "fire.jpg"
-tags['Analysis']
+tags: ['Analysis']
 layout: post
 
 ---
