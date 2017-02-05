@@ -1,5 +1,5 @@
 ---
-title: "Crime in Colorado Data"
+title: "Crime in Larimer County"
 author: "Daniel S. Godwin"
 date: 2017-02-04 19:38:00 +0700
 output: github_document
@@ -8,9 +8,18 @@ layout: post
 
 ---
 
+I think crime data is interesting, but here in Colorado, it's public but [not well organized](http://crimeinco.cbi.state.co.us/). The data are displayed online in tables by agency and year, at least from the early 2000s onward, but overall it's a messy venture. Ever since listening to the [http://www.apmreports.org/in-the-dark]('In The Dark' podcast), I'd been curious about how clearance rates in Colorado. Clearance rates are the ratio of 'closed' crimes to total crimes in a year.
+
+This is my first attempt at webscraping. I'd read that $rvest$ and $XML$ had good tools for this.
+
+Overall goals:
+1. Scrape the data from the Colorado Bureau of Investigation
+2. Clean and organize the data
+3. Calculate and plot clearance rate
 
 
-## Create Working Directories
+
+Some brief preamble work here...
 
 
 ```r
@@ -24,7 +33,8 @@ dir.create(workingDir)
 
 ## Define function to read in offense data
 
-The data on the website has categories and subcategories listed on the same page, which makes scraping it directly a little dicy.
+Using the [Larimer County Sheriff 2014 crime data](http://crimeinco.cbi.state.co.us/cic2k14/agencydetails.php?id=136) here as an example, we can see that the way the data are organized will make this complicated: data have subcategories, so direct scraping won't work. Nothing a little data cleaning function won't fix. We'll need two, though - one for the offenses table and one for the arrests table.
+
 
 
 ```r
@@ -53,7 +63,6 @@ readOffense <- function(table,year,agency){
   df[df$Offense == "Attempted",][,"Category"] <- "Rape"
   df <- df[!df$Offense == "Rape",]
   df <- df[!df$Offense == "Forcible Rape",]
-
 
   ## Robbery
   df[df$Offense == "By Firearm",][,"Category"] <- "Robbery"
@@ -93,6 +102,8 @@ readOffense <- function(table,year,agency){
 
 ## Create function to read in arrest data
 
+Once again, it's necessary to read in and clean the data.
+
 
 ```r
 readArrests <- function(table,year,agency){
@@ -111,6 +122,12 @@ readArrests <- function(table,year,agency){
 
 }  
 ```
+
+## Download the Data
+
+I used a mix of $dplyr$ and $rvest$ for most of this. Although $for$ loops aren't the most efficient tool in R, it seems like the easiest way to go about it. The agency id field in the link corresponds to Larimer County Sherriff Department, and year iterates from 2005-2014.
+
+Once it reads in the data, it dumps it into the agency appropriate directory so that we can then reload it without bothering with their servers.
 
 
 ```r
@@ -159,6 +176,9 @@ for(i in seq(5,14,1)){
 }
 ```
 
+## Read In The Data
+
+Now that we have cleaned local copies, let's reread them and combine them.
 
 
 ```r
@@ -186,11 +206,10 @@ for(i in 1:length(OffenseFiles)){
 Offenses$Count <- as.numeric(Offenses$Count)
 ```
 
-```r
-#Arrests$Year <- as.Date(strptime(as.character(Arrests$Year), "%Y"))
-```
-
 ## Summarize
+
+Time to calculate some summary statistics (thanks to $dplyr$) and recombine the data into some new dataframes for visualizing.
+
 
 ```r
 summaryArrests <- Arrests %>%
@@ -213,11 +232,15 @@ names(compare_long)[4] <- "Count"
 
 compare$clearance <- compare$totalArrests / compare$totalOffenses
 ```
-## Brief Analysis Plots
 
+## Plots
 
-![plot of chunk pressure](../figs/pressure-1.png)
+Great! Let's look first at our overall crime stats:
 
+![plot of chunk crime_Summary](../figs/crime_Summary-1.png)
 
+...and now our clearance rate:
 
-![plot of chunk pressure](../figs/pressure-2.png)
+![plot of chunk crime_clearanceRate](../figs/crime_clearanceRate-1.png)
+
+So the Larimer County Sheriff Department has an average clearance rate of `mean(compare$clearance)`, with not much variation around that per year. Neat!
