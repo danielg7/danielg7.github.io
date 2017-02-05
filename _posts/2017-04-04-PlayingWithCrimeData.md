@@ -186,10 +186,6 @@ for(i in 1:length(OffenseFiles)){
 Offenses$Count <- as.numeric(Offenses$Count)
 ```
 
-```
-## Warning: NAs introduced by coercion
-```
-
 ```r
 #Arrests$Year <- as.Date(strptime(as.character(Arrests$Year), "%Y"))
 ```
@@ -217,21 +213,11 @@ names(compare_long)[4] <- "Count"
 
 compare$clearance <- compare$totalArrests / compare$totalOffenses
 ```
-## Including Plots
-
-You can also embed plots, for example:
+## Brief Analysis Plots
 
 
-```
-## Warning: Removed 1 rows containing missing values (geom_point).
-```
+![plot of chunk pressure](../figs/pressure-1.png)
 
-![plot of chunk pressure](../Documents/danielg7.github.io/figs/pressure-1.png)
 
-```
-## Warning: Removed 2 rows containing missing values (geom_point).
-```
 
-![plot of chunk pressure](../Documents/danielg7.github.io/figs/pressure-2.png)
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+![plot of chunk pressure](../figs/pressure-2.png)
