@@ -70,10 +70,10 @@ Columbia, MO
 
 ### Mentorship of Early Career Wildland Firefighters
 * Elected by and led a group of 25 student volunteer wildland firefighters (Student Association for Fire Ecology). Organized weekly meetings, trainings, social events, fuels reduction projects, equipment rehabilitation, and prescribed fire assistance of local partners. Promoted effective working relationships among co-workers through active listening, professional respect, and engaged leadership.
-* Directed and led six prescribed fires including preparation, ignition, monitoring and mop-up on at the University of Missouri’s Baskett Research and Education Area. Wrote and organized interagency reviews of prescribed burn plans for the University of Missouri’s Baskett Research and Education Area.
+* Directed and led six prescribed fires including preparation, ignition, monitoring and mop-up on at the [Baskett Research and Education Area](http://baskett.cafnr.org/). Wrote and organized interagency reviews of prescribed burn plans.
 * Organized and served as unit instructor on four S-130/190 trainings and three refresher trainings for over 70 local cooperators, students, and faculty. Provided training in the use of water in fire suppression/control operations, use and maintenance of backpack sprayers, and in engine operations on type 6 and type 4 engines.
 * Provided eight formal safety training for new wildland firefighters in both classroom and live fire contexts (e.g., safe driptorch handling, handline construction, overhead hazards, etc.)
-* Led and conducted six fuels reduction projects (thinning trees and brush and building firebreaks) at Rock Bridge State Park.
+* Led and conducted six fuels reduction projects (thinning trees and brush and building firebreaks) at [Rock Bridge State Park](https://mostateparks.com/park/rock-bridge-memorial-state-park).
 * Delivered six incident briefings to groups of fire incident personnel and the general public prior to prescribed fires.
 * Wrote and received over $35,000 in grant support for wildland fire equipment for the University of Missouri
 * Built and maintained the University of Missouri fire cache, modernizing PPE standards to match NFPA standards.
