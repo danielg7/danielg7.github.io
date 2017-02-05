@@ -19,7 +19,7 @@ It's also worth noting that clearance rates are likely poor performance metrics 
 
 -----
 
-This is my first attempt at webscraping. I'd read that $rvest$ and $XML$ had good tools for this.
+This is my first attempt at webscraping. I'd read that rvest and XML had good tools for this.
 
 Overall goals:  
 1. Scrape the data from the Colorado Bureau of Investigation  
@@ -136,7 +136,7 @@ readArrests <- function(table,year,agency){
 
 ## Download the Data
 
-I used a mix of $dplyr$ and $rvest$ for most of this. Although $for$ loops aren't the most efficient tool in R, it seems like the easiest way to go about it. The agency id field in the link corresponds to Larimer County Sherriff Department, and year iterates from 2005-2014.
+I used a mix of dplyr and rvest for most of this. Although $for$ loops aren't the most efficient tool in R, it seems like the easiest way to go about it. The agency id field in the link corresponds to Larimer County Sherriff Department, and year iterates from 2005-2014.
 
 Once it reads in the data, it dumps it into the agency appropriate directory so that we can then reload it without bothering with their servers.
 
