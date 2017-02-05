@@ -12,7 +12,9 @@ I think crime data is interesting, but here in Colorado, it's public but [not we
 
 As noted from the CBI website:  
 
-> Caution must be taken not to compare the number of criminal offenses which occurred to the number of individuals arrested for a particular crime. There is not a direct correlation between the number of individuals arrested and the number of offenses > reported.
+> Caution must be taken not to compare the number of criminal offenses which occurred to the number of individuals arrested for a particular crime. There is not a direct correlation between the number of individuals arrested and the number of offenses  reported.
+
+[Crime in Colorado Report, 2014](http://crimeinco.cbi.state.co.us/cic2k14/agencydetails.php?id=136)
 
 Considered yourself caveated.
 
@@ -220,7 +222,7 @@ Offenses$Count <- as.numeric(Offenses$Count)
 
 ## Summarize
 
-Time to calculate some summary statistics (thanks to $dplyr$) and recombine the data into some new dataframes for visualizing.
+Time to calculate some summary statistics (thanks to dplyr) and recombine the data into some new dataframes for visualizing.
 
 
 ```r
