@@ -21,10 +21,10 @@ It's also worth noting that clearance rates are likely poor performance metrics 
 
 This is my first attempt at webscraping. I'd read that $rvest$ and $XML$ had good tools for this.
 
-Overall goals:
-1. Scrape the data from the Colorado Bureau of Investigation
-2. Clean and organize the data
-3. Calculate and plot clearance rate
+Overall goals:  
+1. Scrape the data from the Colorado Bureau of Investigation  
+2. Clean and organize the data  
+3. Calculate and plot clearance rate  
 
 
 
