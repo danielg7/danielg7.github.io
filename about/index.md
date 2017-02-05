@@ -1,16 +1,15 @@
 ---
-author: danielg7
-comments: true
-date: 2009-08-18 22:18:13+00:00
+bg: "ZA_driptorch.jpg"
 layout: page
-slug: about
-title: About
-wordpress_id: 2
-excerpt: "A little something about myself"
-
+title: "About"
+crawlertitle: "Why and how this blog was created"
+permalink: /about/
+summary: "About this blog"
+active: about
 ---
 # Personal:
 
+Grew up in North Florida. Graduate work in Missouri and South Africa. Live in Colorado. Enjoy pizza, fire, and data. 
 
 ## Full Disclosure:
 
