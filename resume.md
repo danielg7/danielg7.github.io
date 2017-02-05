@@ -25,9 +25,9 @@ Fort Collins, CO
 * Conducted complex geospatial and simulation modeling analyses related to wildland fire.
 * Used fire modeling software (FARSITE, FireFamily Plus, and BehavePlus) to produce wildfire risk assessments. Extended their use with Python and R programs and scripts.
 * Processed large weather and fuels datasets with R and Python.
-* Led and worked effectively as part of an interagency team to assess wildland fuels at six Department of Defense installations across the US. Used active listening skills to recognize potential miscommunications and resolve safety issues (e.g., led AAR process to revise risk management strategy for field crew). Worked as a leader of a group of employees. Promoted effective working relationships among co-workers by striving to build a learning culture and actively managing the risks present during fieldwork on military installations.
-* Delivered briefings and led workshops of U.S. Department of Defense personnel to identify values at risk on Department of Defense installations.
-* Used word processing, GIS, and statistical analysis software to prepare four narrative written risk management documents for Department of Defense installations.
+* Led and worked effectively as part of an interagency team to assess wildland fuels at Department of Defense installations across the US.
+* Led workshops of U.S. Department of Defense personnel to identify values at risk.
+* Used word processing, GIS, and statistical analysis software to prepare narrative written risk management documents for Department of Defense installations.
 * Developed and analyzed fuels treatment alternatives to support management decisions while adhering to applicable laws, regulations, policies, and guidelines.
 * Analyzed and evaluated study findings and provided comprehensive recommendations for future fuels management projects.
 * Wrote three fire management plans for Department of Defense properties.
@@ -40,15 +40,12 @@ Cortez, CO
 05/30/2015 – 07/16/2015  
 
 * Served as Ast. Engine Captain and Lead Forestry Technician on a wildland engine crew performing work directly related to wildland fire suppression and control activities.
-* Directed and assisted in the operation of two Type 6 and one Type 7 wildland fire engines. Operated and maintained pumps on wildland fire engines during daily preventative maintenance checks and during wildfires. On a daily basis, drove and operated a wildland fire engine, positioning the engine for proper use and operation.
-* Directed fire suppression/control operations to include using backpacks, portable pumps, and hose-lays during seven formal and informal training days.
-* Provided formalized on-the-job training to six crewmembers in the use of water in fire suppression/control operations to include use and maintenance of backpacks, portable pumps, foam units, drafting operations, hose-lays, etc.
-* Led six crewmembers in daily field operations and provided daily and weekly performance feedback. Directed the work of six engine crewmembers, assigning work, interpreting instructions, demonstrating work methods, and reviewing work done. Provided technical expertise for fire management projects. Distributed work assignments among six employees, assured timely completion of assigned tasks; maintained work notes and records; reported on work accomplishments, ensured work was carried out safely; and reported on performance issues.
-* Promoted effective working relationships among six co-workers by focusing on the individual experiences and needs of each co-worker, actively listening, and connecting through mutual respect of abilities.
-Operated a variety of motor vehicles to transport equipment, supplies, crewmembers, etc.
+* Directed and assisted in the operation of two Type 6 and one Type 7 wildland fire engines.
+* Directed fire suppression/control operations.
+* Provided formalized on-the-job training to six crewmembers.
+* Led six crewmembers in daily field operations and provided daily and weekly performance feedback.
 * Served as lead instructor on NWCG courses S-211 and unit instructor / field evaluator on S-212.
 * Organized additional weekly informal trainings, e.g. GPS operations, fire weather monitoring, fire behavior monitoring.
-* Taught safety procedures in fire management through daily preventative maintenance checks and discussions, pre- and post-incident briefings and AARs, and providing an open environment in which any unsafe action could be quickly discussed and mitigated.
 
 ## Engine Boss							
 Mesa Verde National Park  
@@ -69,16 +66,16 @@ Columbia, MO
 08/15/2011 – 12/15/2015  
 
 ### Mentorship of Early Career Wildland Firefighters
-* Elected by and led a group of 25 student volunteer wildland firefighters (Student Association for Fire Ecology). Organized weekly meetings, trainings, social events, fuels reduction projects, equipment rehabilitation, and prescribed fire assistance of local partners. Promoted effective working relationships among co-workers through active listening, professional respect, and engaged leadership.
+* Elected by and led a group of 25 student volunteer wildland firefighters (Student Association for Fire Ecology). Organized weekly meetings, trainings, social events, fuels reduction projects, equipment rehabilitation, and prescribed fire assistance of local partners.
 * Directed and led six prescribed fires including preparation, ignition, monitoring and mop-up on at the [Baskett Research and Education Area](http://baskett.cafnr.org/). Wrote and organized interagency reviews of prescribed burn plans.
-* Organized and served as unit instructor on four S-130/190 trainings and three refresher trainings for over 70 local cooperators, students, and faculty. Provided training in the use of water in fire suppression/control operations, use and maintenance of backpack sprayers, and in engine operations on type 6 and type 4 engines.
+* Organized and served as unit instructor on four S-130/190 trainings and three refresher trainings for over 70 local cooperators, students, and faculty.
 * Provided eight formal safety training for new wildland firefighters in both classroom and live fire contexts (e.g., safe driptorch handling, handline construction, overhead hazards, etc.)
 * Led and conducted six fuels reduction projects (thinning trees and brush and building firebreaks) at [Rock Bridge State Park](https://mostateparks.com/park/rock-bridge-memorial-state-park).
 * Delivered six incident briefings to groups of fire incident personnel and the general public prior to prescribed fires.
-* Wrote and received over $35,000 in grant support for wildland fire equipment for the University of Missouri
+* Wrote and received over $35,000 in grant support for wildland fire equipment.
 * Built and maintained the University of Missouri fire cache, modernizing PPE standards to match NFPA standards.
 * Developed and maintained partnerships to link qualified student wildland firefighters to non-profit, local, state, and federal agencies conducting prescribed fires throughout Missouri, assisting on over 20 fires.
-Mentored and trained over 25 new wildland firefighters.
+* Mentored and trained over 25 new wildland firefighters.
 
 ### Fire Ecology Research Program Management
 * Processed large weather and fuels datasets with R and Python.
@@ -102,7 +99,7 @@ Mentored and trained over 25 new wildland firefighters.
 
 #### Executive Board Member, Missouri Prescribed Fire Council
 * Managed social media outreach program promoting appropriate use of prescribed fire in the region.
-* Developed documentary about restoring fire to Shortleaf Pine.
+* Developed [documentary](https://vimeo.com/63291906) about restoring fire to Shortleaf Pine.
 * Researched long-term trends in prescribed fire in Missouri through interviews and remote sensing.
 * Organized round table discussion on Midwestern Prescribed Fire Councils at Tallgrass Prairie and Oak Savanna Fire Science Consortium Conference (2013).
 * Engaged in legislative outreach regarding prescribed fire issues.
@@ -117,7 +114,7 @@ Oak Woodlands and Forests Fire Science Consortium
 Columbia, MO  
 05/01/2014 - 05/01/2015  
 
-* Utilized word processing software to create online and print materials on the science-based use of prescribed fire.
+* Create online and print materials on the science-based use of prescribed fire.
 * Organized and promoted outreach materials for demonstration sites for fuels management projects.
 * Developed and maintained open communication and effective working relations with related groups, individuals, and agencies to synthesize fire science products.
 

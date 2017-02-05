@@ -1,8 +1,11 @@
 ---
-title: "TextScraping"
+title: "Crime in Colorado Data"
 author: "Daniel S. Godwin"
 date: "1/28/2017"
-output: html_document
+output: github_document
+bg: "fire.jpg"
+layout: post
+
 ---
 
 
@@ -223,12 +226,12 @@ You can also embed plots, for example:
 ## Warning: Removed 1 rows containing missing values (geom_point).
 ```
 
-![plot of chunk pressure](figure/pressure-1.png)
+![plot of chunk pressure](../Documents/danielg7.github.io/figs/pressure-1.png)
 
 ```
 ## Warning: Removed 2 rows containing missing values (geom_point).
 ```
 
-![plot of chunk pressure](figure/pressure-2.png)
+![plot of chunk pressure](../Documents/danielg7.github.io/figs/pressure-2.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
