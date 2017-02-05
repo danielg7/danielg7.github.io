@@ -243,4 +243,4 @@ Great! Let's look first at our overall crime stats:
 
 ![plot of chunk crime_clearanceRate](../figs/crime_clearanceRate-1.png)
 
-So the Larimer County Sheriff Department has an average clearance rate of `mean(compare$clearance)`, with not much variation around that per year. Neat!
+So the Larimer County Sheriff Department has an average clearance rate of NaN, with not much variation around that per year. Neat!
