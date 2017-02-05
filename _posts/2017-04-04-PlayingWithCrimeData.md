@@ -11,7 +11,8 @@ layout: post
 I think crime data is interesting, but here in Colorado, it's public but [not well organized](http://crimeinco.cbi.state.co.us/). The data are displayed online in tables by agency and year, at least from the early 2000s onward, but overall it's a messy venture. Ever since listening to the ['In The Dark' podcast](http://www.apmreports.org/in-the-dark), I'd been curious about how clearance rates in Colorado. [Clearance rates](https://en.wikipedia.org/wiki/Clearance_rate) are the ratio of 'closed' crimes to total crimes in a year.
 
 As noted from the CBI website:  
-> Caution must be taken not to compare the number of >criminal offenses which occurred to the number of >individuals arrested for a particular crime. There is >not a direct correlation between the number of >individuals arrested and the number of offenses > reported.
+
+> Caution must be taken not to compare the number of criminal offenses which occurred to the number of individuals arrested for a particular crime. There is not a direct correlation between the number of individuals arrested and the number of offenses > reported.
 
 Considered yourself caveated.
 
