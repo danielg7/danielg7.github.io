@@ -1,7 +1,7 @@
 ---
 title: "Crime in Colorado Data"
 author: "Daniel S. Godwin"
-date: "1/28/2017"
+date: 2017-02-04 19:38:00 +0700
 output: github_document
 bg: "fire.jpg"
 layout: post
@@ -33,15 +33,15 @@ readOffense <- function(table,year,agency){
   names(df) <- c("Offense","Count")
   # Take off summary row
   df <- df[-nrow(df),]
-  
+
   df[,2] <- as.numeric(as.character(df[,2]))
-  
+
   df$Year <- year
   df$Agency <- agency
-  
+
   # Data Cleaning
   df$Category <- rep(NA, nrow(df))
-  
+
   ## No subcategories
   df[df$Offense == "Murder/Manslaughter",][,"Category"] <- "Murder/Manslaughter"
   df[df$Offense == "Negligent Manslaughter",][,"Category"] <- "Negligent Manslaughter"
@@ -61,7 +61,7 @@ readOffense <- function(table,year,agency){
   df[df$Offense == "Other Dangerous Weapon",][,"Category"] <- "Robbery"
   df[df$Offense == "StrongArm",][,"Category"] <- "Robbery"
   df <- df[!df$Offense == "Robbery",]
-  
+
   ## Assaults
   df[df$Offense == "Firearm",][,"Category"] <- "Assault"  
   df[df$Offense == "Forced Entry",][,"Category"] <- "Assault"  
@@ -70,7 +70,7 @@ readOffense <- function(table,year,agency){
   df[df$Offense == "Hands/Feet/Fist",][,"Category"] <- "Assault"  
   df[df$Offense == "Other Assaults",][,"Category"] <- "Assault"  
   df <- df[!df$Offense == "Assaults",]
-  
+
   ## Burglary
   df[df$Offense == "Forced Entry",][,"Category"] <- "Burglary"  
   df[df$Offense == "Unlawful Entry",][,"Category"] <- "Burglary"  
@@ -84,9 +84,9 @@ readOffense <- function(table,year,agency){
   df[df$Offense == "Other",][,"Category"] <- "Motor Vehicle Theft"  
   df[df$Offense == "Attempted",][,"Category"] <- "Motor Vehicle Theft"  
   df <- df[!df$Offense == "Motor Vehicle Theft",]
-  
+
   df <- df[,c("Agency","Year","Category","Offense","Count")]
-  
+
   return(df)
 }
 ```
@@ -98,13 +98,13 @@ readOffense <- function(table,year,agency){
 readArrests <- function(table,year,agency){
   df <- as.data.frame(table[[5]])
   names(df) <- c("Offense","Adult","Juvenile")
-  
+
   df$Year <- as.numeric(year)
   df$Agency <- agency
-  
+
   # Remove summary row
   df <- df[-nrow(df),]
-  
+
   df <- df[,c("Agency","Year","Offense","Adult","Juvenile")]
 
   return(df)
@@ -118,41 +118,41 @@ for(i in seq(5,14,1)){
   link <- paste("http://crimeinco.cbi.state.co.us/cic2k",i,"/agencydetails.php?id=136",sep="")
   yearName <- read_html(x = link) %>%
     html_nodes("h1") %>%
-    html_text() %>% 
+    html_text() %>%
     strsplit(" - ") %>%
     unlist()
-  
+
   year <- yearName[1]
   name <- yearName[2]
-  
+
   shortName <- gsub("[[:space:]]", "", name)
 
   table <- XML::readHTMLTable(doc = link,as.data.frame = TRUE)
-  
+
   # Read in records
-  
+
   arrests <- readArrests(table = table,
                          year = year,
                          agency = shortName)
-  
+
   offenses <- readOffense(table = table,
                          year = year,
                          agency = shortName)
-    
-  
+
+
   # Create output directory
-  
+
   agencyDir <- file.path(workingDir, shortName)
-  
+
   # Save files
-  
+
   if(!file.exists(agencyDir))
     dir.create(agencyDir)
-  
+
   write.csv(x = arrests,
             file = paste(agencyDir,"/",year,"_",shortName,"_Arrests.csv",sep=""),
             row.names = FALSE)
-  
+
   write.csv(x = offenses,
             file = paste(agencyDir,"/",year,"_",shortName,"_Offenses.csv",sep=""),
             row.names = FALSE)
@@ -173,13 +173,13 @@ Arrests <- data.frame("Agency"=NA,"Year"=NA,"Offense"=NA,"Adult"=NA,"Juvenile"=N
 
 for(i in 1:length(ArrestFiles)){
   file <- read.csv(file = ArrestFiles[i], na.strings = "Â")
-  
+
   Arrests <- rbind(Arrests,file)
 }
 
 for(i in 1:length(OffenseFiles)){
   file <- read.csv(file = OffenseFiles[i], na.strings = "Â")
-  
+
   Offenses <- rbind(Offenses,file)
 }
 
